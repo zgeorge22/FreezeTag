@@ -1,4 +1,4 @@
 FreezeTag
 =========
 
-A Freeze Tag Plugin For PocketMine-Mp
+A Freeze Tag Plugin For PocketMine-MP
