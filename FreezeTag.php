@@ -59,10 +59,10 @@ class FreezeTag implements Plugin{
                 }
             break;
             case "startFT":
-              
+                //Start
             break;
             case "stopFT":
-              
+                //Stop
             break;
         }
     }
@@ -74,7 +74,7 @@ class FreezeTag implements Plugin{
                 if($player instanceof Player){
                     $attacker=$this->api->player->getByEID($data["cause"]);
                     if($attacker instanceof Player){
-                        
+                        //If Attacker Is Tagger and Player Is Runner Then....
                     }
                 }
             break;
